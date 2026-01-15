@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rochel  and I'm a IT student, from Ecoland Davao City</h2>
+<h2 align="left">Hi 👋! My name is Rochel  and I'm an IT student, from Ecoland Davao City</h2>
 
 ###
 
